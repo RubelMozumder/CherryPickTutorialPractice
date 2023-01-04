@@ -1,0 +1,6 @@
+[submodule "SomeSubmodule/work-with-version-controled-system"]
+	path = SomeSubmodule/work-with-version-controled-system
+	url = https://github.com/RubelMozumder/work-with-version-controled-system.git
+[submodule "SomeSubmodule/GitCherrypickTutorial_1"]
+	path = SomeSubmodule/GitCherrypickTutorial_1
+	url = https://github.com/RubelMozumder/GitCherrypickTutorial_1.git
