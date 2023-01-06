@@ -4,3 +4,6 @@
 [submodule "SomeSubmodule/GitCherrypickTutorial_1"]
 	path = SomeSubmodule/GitCherrypickTutorial_1
 	url = https://github.com/RubelMozumder/GitCherrypickTutorial_1.git
+[submodule "SomeSubmodule/DevSkillAndKnowGist"]
+	path = SomeSubmodule/DevSkillAndKnowGist
+	url = https://github.com/RubelMozumder/DevSkillAndKnowGist.git
