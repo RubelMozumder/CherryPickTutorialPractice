@@ -7,3 +7,5 @@
 [submodule "SomeSubmodule/DevSkillAndKnowGist"]
 	path = SomeSubmodule/DevSkillAndKnowGist
 	url = https://github.com/RubelMozumder/DevSkillAndKnowGist.git
+[submodule "DevSkillAndKnowGist"]
+	branch = Docker
